@@ -80,7 +80,7 @@ def home():
             </header>
 
             <div class="container">
-                <h1>Welcome to My Homepage</h1>
+                <h1>Welcome to My Hpage</h1>
                 <p>This is a basic homepage using only Python and Flask.</p>
                 <button class="btn">Get Started</button>
             </div>
